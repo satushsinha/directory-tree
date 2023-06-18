@@ -3,13 +3,13 @@
 Contain the python implementation of the directory tree.
 The data structure supports following four operations
 
-* ### Add (add_folder)
+### Add (add_folder)
 To add a subfolder.
-* ### Remove (remove_folder)
+### Remove (remove_folder)
 To remove a folder
-* ### Fetch (get_folder_path)
+### Fetch (get_folder_path)
 To get path for a folder
-* ### Update (update_folder_name)
+### Update (update_folder_name)
 To rename a folder
 
 ### To start the script 
